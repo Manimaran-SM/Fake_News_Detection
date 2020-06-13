@@ -7,8 +7,8 @@
 
 * [Overview](#Overview)
    * [Introduction](#Introduction)
-   * [Why this Algorithm?](#Why this Algorithm?)
-   * [Challenges Faced](#Challenges Faced)
+   * [Why this Algorithm?](#Why_this_Algorithm?)
+   * [Challenges Faced](#Challenges_Faced)
    * [Limitation](#Limitation)
    
 * [Guide](#Guide)
