@@ -41,26 +41,24 @@
 # Pre-requisiste
 ### python IDE and Following packages must be installed in system:
 #### Note: Given commands works only for windows
+Install Numpy with:
 
-    Install numpy with:
-    
-    ``` 
-    pip install numpy  
-    ```
-    
-    Install pandas with:
-    
-    ``` 
-    pip install pandas 
-    ```
+```
+pip install numpy
+```
+Install Pandas with:
 
-    Install sklearn with:
-    
-    ``` 
-    pip install scikit-learn  
-    ```
+```
+pip install pandas
+```
+Install Sklearn with:
+
+```
+pip install scikit-learn
+```
+
     
 
 # Dataset
-    >Refer the [news.csv]() in this repostory
+    >Refer the [news.csv](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/news.csv) in this repostory
 
