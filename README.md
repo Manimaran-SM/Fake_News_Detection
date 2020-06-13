@@ -3,7 +3,7 @@
   Fake News Detection
 </h1>
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/LICENSE)
 
 * [**NEW!** Rocket.Chat Moving to a Single Codebase](#moving-to-a-single-codebase) 
 * [Community](#community)
