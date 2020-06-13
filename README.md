@@ -13,42 +13,21 @@
    
 * [Guide](#Guide)
   * [Procedure](#Procedure)
-  * [Pre-requisite](#Pre-requisiste)
+  * [Pre-requisite](##Pre-requisiste)
   * [Dataset](#Dataset)
 
 
 # Overview
+## Introduction
 
-
-
-# Introduction
-
-Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
-
-```
-sudo snap install rocketchat-server
-```
 
 
 # Why_this_Algorithm
 
 
-Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
-
-```
-sudo snap install rocketchat-server
-```
-
-
 
 # Challenges_Faced
 
-
-Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
-
-```
-sudo snap install rocketchat-server
-```
 
 
 # Limitation
@@ -56,14 +35,32 @@ sudo snap install rocketchat-server
 
 
 # Guide
-
 # Procedure
-> Open Sourcers Race to Build Better Versions of Slack
-
+> 
 
 # Pre-requisiste
+### Following packages must be installed in system:
+#### Note: Given commands works only for windows
 
+    >Install numpy with:
+    
+    ``` 
+    pip install numpy  
+    ```
+    
+    >Install pandas with:
+    
+    ``` 
+    pip install pandas 
+    ```
 
+    >Install sklearn with:
+    
+    ``` 
+    pip install scikit-learn  
+    ```
+    
 
 # Dataset
+    >Refer the [news.csv]() in this repostory
 
