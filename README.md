@@ -6,41 +6,44 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/LICENSE)
 
 * [Overview](#Overview)
-   * [Introduction](#Introduction)
-   * [Why?](#Why_this_Algorithm)
-   * [Challenges Faced](#Challenges_Faced)
-   * [Limitation](#Limitation)
+   * [Introduction](##Introduction)
+   * [Why?](##Why_this_Algorithm)
+   * [Challenges Faced](##Challenges_Faced)
+   * [Limitation](##Limitation)
    
 * [Guide](#Guide)
-  * [Procedure](#Procedure)
+  * [Procedure](##Procedure)
   * [Pre-requisite](##Pre-requisiste)
-  * [Dataset](#Dataset)
+  * [Dataset](##Dataset)
 
 
-# Overview
+# Overview:
 ## Introduction
 
 
 
-# Why_this_Algorithm
+## Why_this_Algorithm
 
 
 
-# Challenges_Faced
+## Challenges_Faced
 
 
 
-# Limitation
+## Limitation
 
 
 
-# Guide
-# Procedure
+# Guide:
+## Procedure
 > 
+>
+>
+>
+>
+>
 
-# Pre-requisiste
-### python IDE and Following packages must be installed in system:
-#### Note: Given commands works only for windows
+## Pre-requisiste
 Install Numpy with:
 
 ```
@@ -56,9 +59,9 @@ Install Sklearn with:
 ```
 pip install scikit-learn
 ```
-
+##### Note:<br>python IDE and Following packages must be installed in system:<br>Given commands works only for windows
     
 
-# Dataset
-    >Refer the [news.csv](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/news.csv) in this repostory
+## Dataset
 
+Refer in this repostory or click here [news.csv](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/news.csv)
