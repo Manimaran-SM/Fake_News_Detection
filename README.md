@@ -2,7 +2,8 @@
   <img src="https://www.thehindu.com/opinion/op-ed/x9sol6/article29451786.ece/ALTERNATES/FREE_960/Fake-news" height="200px" width="200px" alt="FAKE NEWS"><br>
   Fake News Detection
 </h1>
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/LICENSE)]
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/LICENSE)
 
 * [Overview](#Overview)
    * [Introduction](#Introduction)
