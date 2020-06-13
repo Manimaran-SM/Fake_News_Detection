@@ -8,11 +8,11 @@
   * [Prerequisite](#pre-requisite)
   * [Procedure](#Procedure)
   
-  #Overview
-  #Introduction
-  #why this algorithm
-  #Challenges Faced
-  #Limitations
-  #Installation Guide
-  #pre-requisite
-  #Procedure
+  # Overview
+  # Introduction
+  # why this algorithm
+  # Challenges Faced
+  # Limitations
+  # Installation Guide
+  # pre-requisite
+  # Procedure
