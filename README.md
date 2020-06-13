@@ -39,22 +39,22 @@
 > 
 
 # Pre-requisiste
-### Following packages must be installed in system:
+### python IDE and Following packages must be installed in system:
 #### Note: Given commands works only for windows
 
-    >Install numpy with:
+    Install numpy with:
     
     ``` 
     pip install numpy  
     ```
     
-    >Install pandas with:
+    Install pandas with:
     
     ``` 
     pip install pandas 
     ```
 
-    >Install sklearn with:
+    Install sklearn with:
     
     ``` 
     pip install scikit-learn  
