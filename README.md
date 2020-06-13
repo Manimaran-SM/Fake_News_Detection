@@ -30,7 +30,7 @@ sudo snap install rocketchat-server
 ```
 
 
-# Why this Algorithm?
+# Why_this_Algorithm?
 
 
 Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
@@ -41,7 +41,7 @@ sudo snap install rocketchat-server
 
 
 
-# Challenges Faced
+# Challenges_Faced
 
 
 Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
@@ -51,7 +51,7 @@ sudo snap install rocketchat-server
 ```
 
 
-# Limitaion
+# Limitation
 
 
 
