@@ -7,7 +7,7 @@
 
 * [Overview](#Overview)
    * [Introduction](#Introduction)
-   * [Why this Algorithm?](#Why_this_Algorithm?)
+   * [Why?](#Why_this_Algorithm)
    * [Challenges Faced](#Challenges_Faced)
    * [Limitation](#Limitation)
    
@@ -30,7 +30,7 @@ sudo snap install rocketchat-server
 ```
 
 
-# Why_this_Algorithm?
+# Why_this_Algorithm
 
 
 Install Rocket.Chat in seconds on Linux (Ubuntu and others) with:
