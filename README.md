@@ -1,5 +1,5 @@
-<img src="https://www.thehindu.com/opinion/op-ed/x9sol6/article29451786.ece/ALTERNATES/FREE_960/Fake-news" height="100px" width="100px" align="center" alt="FAKE NEWS">
 <h1 align="center">
+  <img src="https://www.thehindu.com/opinion/op-ed/x9sol6/article29451786.ece/ALTERNATES/FREE_960/Fake-news" height="200px" width="200px" alt="FAKE NEWS"><br>
   Fake News Detection
 </h1>
 
