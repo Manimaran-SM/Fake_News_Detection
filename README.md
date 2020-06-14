@@ -46,18 +46,18 @@
 
 # Guide:
 ## Procedure
-> * Click clone/download
-> * If you github desktop click open in desktop hit the clone button. 
-> * If you use download zip, then extract the zip file  
-> * If you want to use HTTPS say (https://github.com/Manimaran-SM/Fake_News_Detection.git),  then use the command
+>* Click clone/download
+>* If you github desktop click open in desktop hit the clone button. 
+>* If you use download zip, then extract the zip file  
+>* If you want to use HTTPS say (https://github.com/Manimaran-SM/Fake_News_Detection.git),  then use the command
 ``` 
 $ git clone https://github.com/Manimaran-SM/Fake_News_Detection.git
 ```
 ### Note:
 * If you have problem related with git command refer this documentation [link](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-> * After completing the above steps, You must have anaconda or jupyter notebook to execute this code.
-> * Now run the [file1.pynb](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/file1.ipynb) file. You wil get output as shown in the above file.
-> * If you have any problems regarding this repository while opening feel free ask me [here](https://github.com/Manimaran-SM/Fake_News_Detection/issues/new)
+>* After completing the above steps, You must have anaconda or jupyter notebook to execute this code.
+>* Now run the [file1.pynb](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/file1.ipynb) file. You wil get output as shown in the above file.
+>* If you have any problems regarding this repository while opening feel free ask me [here](https://github.com/Manimaran-SM/Fake_News_Detection/issues/new)
 
 ## Prerequisite
 Install Numpy with:
@@ -76,8 +76,8 @@ Install Sklearn with:
 pip install scikit-learn
 ```
 ## Note:
-><br>* python IDE and Following packages must be installed in system:
-><br>* Given commands works only for windows
+>* python IDE and Following packages must be installed in system:
+>* Given commands works only for windows
     
 
 ## Dataset
