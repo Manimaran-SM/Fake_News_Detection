@@ -6,15 +6,15 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/LICENSE)
 
 * [Overview](#Overview)
-   * [Introduction](##Introduction)
-   * [Why?](##Why_this_Algorithm)
-   * [Challenges Faced](##Challenges_Faced)
-   * [Limitation](##Limitation)
+   * [Introduction](#Introduction)
+   * [Why?](#Why_this_Algorithm)
+   * [Challenges Faced](#Challenges_Faced)
+   * [Limitation](#Limitation)
    
 * [Guide](#Guide)
-  * [Procedure](##Procedure)
-  * [Pre-requisite](##Prerequisite)
-  * [Dataset](##Dataset)
+  * [Procedure](#Procedure)
+  * [Pre-requisite](#Prerequisite)
+  * [Dataset](#Dataset)
 
 
 # Overview:
