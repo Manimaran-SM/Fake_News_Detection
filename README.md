@@ -13,7 +13,7 @@
    
 * [Guide](#Guide)
   * [Procedure](##Procedure)
-  * [Pre-requisite](##Pre-requisiste)
+  * [Pre-requisite](##Prerequisite)
   * [Dataset](##Dataset)
 
 
@@ -59,7 +59,7 @@ If you have problem related with git command refer this documentation [link](htt
 > Now run the [file1.pynb](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/file1.ipynb) file. You wil get output as shown in the above file.
 > If you have any problems regarding this repository while opening feel free ask me [here](https://github.com/Manimaran-SM/Fake_News_Detection/issues/new)
 
-## Pre-requisiste
+## Prerequisite
 Install Numpy with:
 
 ```
