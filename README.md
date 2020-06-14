@@ -19,8 +19,8 @@
 
 # Overview:
 ## Introduction
-
-
+>Fake news is a major concern in our society right now. It has gone hand-in-hand with the rise of the data-driven era – not a coincidence when you consider the sheer volume of data we are generating every second! Fake news is such a widespread issue that even the world’s leading dictionaries are trying to combat it in their own way.
+>I’ve been working in the Natural Language Processing (NLP) space and so i proposed a system which would analyze the fake news and report it back 
 
 ## Why_this_Algorithm
 
