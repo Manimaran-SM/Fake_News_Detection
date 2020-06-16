@@ -25,7 +25,7 @@
 ## Why_this_Algorithm
   >* I used Passive Aggressive Classifier. Passive-aggressive classification is one of the available incremental learning algorithms and it is very simple to implement, since it has a closed-form update rule.
   >* refer this for detailed description [passive_aggressive_classifier](https://www.bonaccorso.eu/2017/10/06/ml-algorithms-addendum-passive-aggressive-algorithms/)
-  >* Here is another key term text "Term frequency and inverse document frequency". 
+  >* Here is another two key terms "Term frequency and inverse document frequency". 
   <br>Term Frequency measures the frequency of a word in a document. This highly depends on the length of the document and the generality of word. 
   <br>```tf(t,d) = count of t in d / number of words in d ```
   <br>DF is the number of documents in which the word is present. IDF is the inverse of the document frequency which measures the informativeness of term t.
