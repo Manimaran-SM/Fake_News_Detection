@@ -15,6 +15,7 @@
   * [Procedure](#Procedure)
   * [Pre-requisite](#Prerequisite)
   * [Dataset](#Dataset)
+  * [System Configuration](#System Configuration)
 
 
 # Overview:
@@ -38,12 +39,15 @@
   >* Kindly refer this documentation [TFIDFVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) and understand the parameters before using it in your system. 
 
 ## Limitation
-  >* This system cannot accept inputs from user. 
-  >* It is not compatable for deploying.
-  >* It also requires much more understanding of the dataset
-  
+  >* It requires more understanding of the dataset  
 
 # Guide:
+## System Configuration
+>* Graphic card: NVIDIA GeForce GTX1050
+>* CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+>* RAM: 8GB
+>* Disksapce: 1TB
+
 ## Procedure
 >* Click clone/download
 >* If you github desktop click open in desktop hit the clone button. 
@@ -76,7 +80,8 @@ pip install scikit-learn
 ```
 ## Note:
 >* Given commands works only for windows.
->* python IDE and Following packages must be installed in system.
+>* Python IDE and Following packages must be installed in system.
     
 ## Dataset
 >* Refer in this repostory or click here [news.csv](https://github.com/Manimaran-SM/Fake_News_Detection/blob/master/news.csv)
+
