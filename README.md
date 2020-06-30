@@ -12,10 +12,10 @@
    * [Limitation](#Limitation)
    
 * [Guide](#Guide)
+  * [System Configuration](#System_Configuration)
   * [Procedure](#Procedure)
   * [Pre-requisite](#Prerequisite)
   * [Dataset](#Dataset)
-  * [System Configuration](#System Configuration)
 
 
 # Overview:
@@ -42,7 +42,7 @@
   >* It requires more understanding of the dataset  
 
 # Guide:
-## System Configuration
+## System_Configuration
 >* Graphic card: NVIDIA GeForce GTX1050
 >* CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
 >* RAM: 8GB
